@@ -31,7 +31,7 @@ add_filter( 'wpseo_canonical', 'prefix_filter_canonical_example' );
 ```
 
 ## Remove the canonical URL
-If you want to completely remove the canonical URL from a page, simply return false for that page, like so:
+If you want to completely remove the canonical URL from [a page](https://mangapan.com/), simply return false for that page, like so:
 
 ```php
 /**
